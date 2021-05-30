@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="123886" started-at="2021-05-30T18:38:22 IST" finished-at="2021-05-30T18:40:26 IST">
+  <suite name="Default suite" duration-ms="28923" started-at="2021-05-30T19:26:33 IST" finished-at="2021-05-30T19:27:02 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="123886" started-at="2021-05-30T18:38:22 IST" finished-at="2021-05-30T18:40:26 IST">
+    <test name="Default test" duration-ms="28923" started-at="2021-05-30T19:26:33 IST" finished-at="2021-05-30T19:27:02 IST">
       <class name="example.NewTest">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:example.NewTest@32d2fa64]" name="beforeTest" is-config="true" duration-ms="3014" started-at="2021-05-30T18:38:22 IST" finished-at="2021-05-30T18:38:25 IST">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:example.NewTest@587d1d39]" name="beforeTest" is-config="true" duration-ms="2515" started-at="2021-05-30T19:26:33 IST" finished-at="2021-05-30T19:26:36 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="testEasy()[pri:0, instance:example.NewTest@32d2fa64]" name="testEasy" duration-ms="119562" started-at="2021-05-30T18:38:25 IST" finished-at="2021-05-30T18:40:25 IST">
+        <test-method status="PASS" signature="testEasy()[pri:0, instance:example.NewTest@587d1d39]" name="testEasy" duration-ms="25487" started-at="2021-05-30T19:26:36 IST" finished-at="2021-05-30T19:27:01 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testEasy -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:example.NewTest@32d2fa64]" name="afterTest" is-config="true" duration-ms="1241" started-at="2021-05-30T18:40:25 IST" finished-at="2021-05-30T18:40:26 IST">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:example.NewTest@587d1d39]" name="afterTest" is-config="true" duration-ms="844" started-at="2021-05-30T19:27:01 IST" finished-at="2021-05-30T19:27:02 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
